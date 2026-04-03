@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Voice Assistant",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "c:/Users/engnj/Personal/Desktop/CODING/VS-Code/Voice Assistant/Voice_Assistant/server.py",
+            "python": "C:/Users/engnj/AppData/Local/Python/pythoncore-3.14-64/python.exe",
+            "env": {
+                "OPENAI_API_KEY": "syour-api-key-here"
+                
+            },
+            "console": "integratedTerminal"
+        }
+    ]
+}
