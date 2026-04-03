@@ -44,7 +44,7 @@ $env:OPENAI_API_KEY="sk-your-key-here"
 python Voice_Assistant/server.py
 ```
 
-Open your browser at: **http://127.0.0.1:8000**
+Open your browser at: **http://http://127.0.0.1:7860/**
 
 ---
 
