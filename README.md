@@ -45,6 +45,7 @@ python Voice_Assistant/server.py
 ```
 
 Open your browser at: **http://http://127.0.0.1:7860/**
+Or oh Huggingface: **https://huggingface.co/spaces/Iamengndegwa/Voice_assistant2**
 
 ---
 
